@@ -8,12 +8,36 @@ of those working at the dropzone, that much easier.
 
 ### Installation
 
-TBC: we'll stipulate all the steps required to install this application on your device, for then
-running and building locally.
+1. Install dependencies
+
+   ```bash
+   yarn install
+   ```
+
+2. Start the app
+
+   ```bash
+    yarn start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ### Local Development
 
-TBC: we'll stipulate all the exact steps required to run and test this app locally, on your machine.
+Simply run the app using 
+
+```bash
+yarn start
+```
+
+and then navigate to `http://localhost:8081` to see the app during local development.
 
 ### Deploying Test Version
 
