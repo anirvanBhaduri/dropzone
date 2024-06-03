@@ -8,19 +8,19 @@ of those working at the dropzone, that much easier.
 
 ### Installation
 
-TBC: we'll stipulate all the steps required to install this application on your device, for then 
+TBC: we'll stipulate all the steps required to install this application on your device, for then
 running and building locally.
 
 ### Local Development
 
 TBC: we'll stipulate all the exact steps required to run and test this app locally, on your machine.
 
-## Deploying Test Version
+### Deploying Test Version
 
 TBC: we'll stipulate all the exact steps required to deploy this app to the test environment
 for both Android and IOS.
 
-## Deploying Prod Version
+### Deploying Prod Version
 
 TBC: we'll stipulate all the exact steps required to deploy this app to production
 for both Android and IOS.
